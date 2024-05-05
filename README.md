@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akashmandulkar
-- 🌱 I’m currently learning Design Patterns, Sonarcube And Jmeter.
-- 💞️ I’m looking to collaborate on on API Testing, Selenium, Automation Frameworks
-- 📫 How to reach me amandulkar17@gmail.com
+- 👋 Hi, I’m 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me 
 - 👨‍💻 My project is Available at 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
